@@ -1,0 +1,15 @@
+# Photo Tool Configuration File
+# Format: key = value
+
+# IrfanView installation path
+IrfanViewPath="C:\iview473_x64\i_view64.exe"
+
+# Default folders
+SD-Card = "PATH\SD-Card"
+Folder-1 = "PATH\Folder-1"
+Folder-2 = "PATH\Folder-2"
+
+# Image processing settings
+ResizeWidth = 800
+OutputFormat = "jpg"
+Quality = 85
